@@ -4,7 +4,7 @@
 
 I'm a B.Sc. Data Analytics student interested in Data Analytics, Business Intelligence and data-driven problem solving.
 
-I work with data across the complete analytics workflow — from data cleaning and transformation to analysis, visualization and reporting.
+I work with data across the complete analytics workflow - from data cleaning and transformation to analysis, visualization and reporting.
 
 ### 🛠️ Technical Skills
 
