@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Avriti Sharma 👋
 
-<!--
-**avritisharma/avritisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc. Data Analytics Student | SQL | Power BI | Excel | Business Intelligence
 
-Here are some ideas to get you started:
+I'm a B.Sc. Data Analytics student interested in Data Analytics, Business Intelligence and data-driven problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with data across the complete analytics workflow — from data cleaning and transformation to analysis, visualization and reporting.
+
+### 🛠️ Technical Skills
+
+- SQL & Microsoft SQL Server
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Cleaning & Transformation
+- Data Modelling & Star Schema
+- Data Visualization
+- DBMS & PL/SQL
+- Python, Pandas & NumPy
+
+### 📊 Featured Project
+
+**Olist Brazilian E-Commerce Business Intelligence Dashboard**
+
+An interactive Power BI dashboard developed using the Olist Brazilian E-Commerce Dataset.
+
+The project covers:
+
+- Sales Performance
+- Customer Insights
+- Product & Category Performance
+- Geographic Sales Analysis
+- Seller Performance
+- Delivery & Logistics
+- Payment Analysis
+
+Tools used: Power BI, Power Query, DAX and data modelling.
+
+### 📚 Currently Learning
+
+- Advanced SQL
+- Power BI & DAX
+- Business Intelligence
+- Data Analytics
+
+### 🔗 Connect With Me
+
+[LinkedIn]https://www.linkedin.com/in/avriti-sharma-089a2637a?utm_source=share_via&utm_content=profile&utm_medium=member_android
