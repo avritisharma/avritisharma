@@ -46,4 +46,4 @@ Tools used: Power BI, Power Query, DAX and data modelling.
 
 ### 🔗 Connect With Me
 
-[LinkedIn]https://www.linkedin.com/in/avriti-sharma-089a2637a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[LinkedIn] https://www.linkedin.com/in/avriti-sharma-089a2637a?utm_source=share_via&utm_content=profile&utm_medium=member_android
